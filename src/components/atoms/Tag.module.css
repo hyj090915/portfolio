@@ -1,0 +1,39 @@
+.tag {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 500;
+  margin: 2px;
+}
+
+.default {
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+.primary {
+  background-color: #667eea;
+  color: white;
+}
+
+.success {
+  background-color: #28a745;
+  color: white;
+}
+
+.warning {
+  background-color: #ffc107;
+  color: #333;
+}
+
+.danger {
+  background-color: #dc3545;
+  color: white;
+}
+
+.tech {
+  background-color: #e3f2fd;
+  color: #1976d2;
+  border: 1px solid #bbdefb;
+} 
